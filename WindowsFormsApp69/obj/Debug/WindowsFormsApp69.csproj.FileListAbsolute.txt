@@ -1,0 +1,10 @@
+C:\Users\ruzickat.04\source\repos\WindowsFormsApp69\WindowsFormsApp69\bin\Debug\WindowsFormsApp69.exe.config
+C:\Users\ruzickat.04\source\repos\WindowsFormsApp69\WindowsFormsApp69\bin\Debug\WindowsFormsApp69.exe
+C:\Users\ruzickat.04\source\repos\WindowsFormsApp69\WindowsFormsApp69\bin\Debug\WindowsFormsApp69.pdb
+C:\Users\ruzickat.04\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.csprojAssemblyReference.cache
+C:\Users\ruzickat.04\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.Form1.resources
+C:\Users\ruzickat.04\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.Properties.Resources.resources
+C:\Users\ruzickat.04\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.csproj.GenerateResource.cache
+C:\Users\ruzickat.04\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.csproj.CoreCompileInputs.cache
+C:\Users\ruzickat.04\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.exe
+C:\Users\ruzickat.04\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.pdb
